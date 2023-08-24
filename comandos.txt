@@ -1,0 +1,7 @@
+Criar arquivo txt
+    nodepad nome.txt
+
+Sincronizar
+    git add .
+    git commit -m "alguma coisa"
+    git push origin main
